@@ -1,0 +1,21 @@
+.navbar {
+  list-style-type: none;
+  padding: 0;
+  display: flex; 
+  justify-content: center; 
+  background-color: #333; 
+}
+
+.navbar-item {
+  margin: 0 15px; 
+}
+
+.navbar-item a {
+  color: white; 
+  text-decoration: none; 
+  padding: 14px 20px; 
+  display: block; 
+
+.navbar-item a:hover {
+  background-color: #575757; 
+}
